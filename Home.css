@@ -1,23 +1,24 @@
 .u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/profilePicCas.png"); background-position: 100% 16.22%; background-size: 115%}
-.u-section-1 .u-sheet-1 {min-height: 800px}
-.u-section-1 .u-text-1 {font-size: 4.5rem; margin: 387px 0 0 541px}
+.u-section-1 .u-sheet-1 {min-height: 1159px}
+.u-section-1 .u-text-1 {font-size: 4.5rem; margin: 746px 0 0 541px}
 .u-section-1 .u-text-2 {font-size: 1.25rem; margin: 0 0 60px 899px} 
 
-@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 660px}
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 955px}
 .u-section-1 .u-text-1 {width: auto; margin-left: 319px}
 .u-section-1 .u-text-2 {width: auto; margin-left: 682px} }
 
-@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 506px}
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 731px}
 .u-section-1 .u-text-1 {margin-left: 111px}
 .u-section-1 .u-text-2 {margin-left: 465px} }
 
-@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 380px}
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 548px}
 .u-section-1 .u-text-1 {margin-left: 29px; font-size: 3.75}
 .u-section-1 .u-text-2 {margin-left: 318px} }
 
-@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 287px}
-.u-section-1 .u-text-1 {font-size: 2.25rem; margin-top: 181px}
-.u-section-1 .u-text-2 {font-size: 1rem; margin-bottom: 41px; margin-left: 151px} }.u-section-2 {background-image: none}
+@media (max-width: 575px){ .u-section-1 {background-position: 100% 0%; background-size: auto 115%}
+.u-section-1 .u-sheet-1 {min-height: 462px}
+.u-section-1 .u-text-1 {font-size: 2.25rem; margin-top: 280px}
+.u-section-1 .u-text-2 {font-size: 1rem; margin-left: 151px} }.u-section-2 {background-image: linear-gradient(#f4fcff, #c3f0fe)}
 .u-section-2 .u-sheet-1 {min-height: 660px}
 .u-section-2 .u-layout-wrap-1 {pointer-events: auto; width: 1227px; margin: 35px auto 35px 0}
 .u-section-2 .u-image-1 {min-height: 590px; pointer-events: auto; background-image: url("images/1200px-University_of_Maryland_seal.svg.png"); background-position: 50% 50%}
@@ -49,7 +50,7 @@
 
 @media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 179px}
 .u-section-2 .u-layout-wrap-1 {width: 340px}
-.u-section-2 .u-image-1 {min-height: 330px} }.u-section-3 {background-image: none}
+.u-section-2 .u-image-1 {min-height: 330px} }.u-section-3 {background-image: linear-gradient(#c3f0fe, white)}
 .u-section-3 .u-sheet-1 {min-height: 730px}
 .u-section-3 .u-layout-wrap-1 {pointer-events: auto; margin: 70px 0}
 .u-section-3 .u-layout-cell-1 {min-height: 600px; pointer-events: auto}
