@@ -21,59 +21,63 @@
 .u-section-1 .u-text-2 {font-size: 1rem; margin-left: 151px} }.u-section-2 {background-image: linear-gradient(#f4fcff, #c3f0fe)}
 .u-section-2 .u-sheet-1 {min-height: 660px}
 .u-section-2 .u-layout-wrap-1 {pointer-events: auto; width: 1227px; margin: 35px auto 35px 0}
-.u-section-2 .u-image-1 {min-height: 590px; pointer-events: auto; background-image: url("images/1200px-University_of_Maryland_seal.svg.png"); background-position: 50% 50%}
+.u-section-2 .u-layout-cell-1 {min-height: 590px; pointer-events: auto}
 .u-section-2 .u-container-layout-1 {padding: 30px 60px}
+.u-section-2 .u-image-1 {width: 387px; height: 372px; margin: 0 auto}
 .u-section-2 .u-layout-cell-2 {min-height: 590px; pointer-events: auto}
 .u-section-2 .u-container-layout-2 {padding: 30px 60px}
 .u-section-2 .u-text-1 {font-size: 1.875rem; margin: 84px 36px 0 0}
-.u-section-2 .u-text-2 {margin: 79px 0 0} 
+.u-section-2 .u-text-2 {margin: 79px 29px 0 0} 
 
 @media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 100px}
 .u-section-2 .u-layout-wrap-1 {width: 940px}
-.u-section-2 .u-image-1 {min-height: 455px}
+.u-section-2 .u-layout-cell-1 {min-height: 455px; background-position: 50% 50%}
+.u-section-2 .u-image-1 {width: 350px; height: 336px}
 .u-section-2 .u-layout-cell-2 {min-height: 455px}
 .u-section-2 .u-text-1 {margin-right: 0}
-.u-section-2 .u-text-2 {margin-top: 35px} }
+.u-section-2 .u-text-2 {margin-top: 35px; margin-right: 0} }
 
 @media (max-width: 991px){ .u-section-2 .u-layout-wrap-1 {width: 720px}
-.u-section-2 .u-image-1 {min-height: 349px}
+.u-section-2 .u-layout-cell-1 {min-height: 100px}
 .u-section-2 .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
+.u-section-2 .u-image-1 {width: 300px; height: 288px}
 .u-section-2 .u-layout-cell-2 {min-height: 100px}
 .u-section-2 .u-container-layout-2 {padding-left: 30px; padding-right: 30px} }
 
 @media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 390px}
 .u-section-2 .u-layout-wrap-1 {width: 540px}
-.u-section-2 .u-image-1 {min-height: 524px}
 .u-section-2 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
 .u-section-2 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
 .u-section-2 .u-text-1 {font-size: 1.5} }
 
 @media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 179px}
-.u-section-2 .u-layout-wrap-1 {width: 340px}
-.u-section-2 .u-image-1 {min-height: 330px} }.u-section-3 {background-image: linear-gradient(#c3f0fe, white)}
+.u-section-2 .u-layout-wrap-1 {width: 340px} }.u-section-3 {background-image: linear-gradient(#c3f0fe, white)}
 .u-section-3 .u-sheet-1 {min-height: 730px}
 .u-section-3 .u-layout-wrap-1 {pointer-events: auto; margin: 70px 0}
 .u-section-3 .u-layout-cell-1 {min-height: 600px; pointer-events: auto}
 .u-section-3 .u-container-layout-1 {padding: 30px 60px}
 .u-section-3 .u-text-1 {margin: 70px 0 0}
 .u-section-3 .u-text-2 {font-size: 1.125rem; margin: 93px 0 0}
-.u-section-3 .u-image-1 {min-height: 600px; pointer-events: auto; background-image: url("images/iribe_exterior_2.jpg"); background-position: 29.71% 50%}
-.u-section-3 .u-container-layout-2 {padding: 30px 60px} 
+.u-section-3 .u-layout-cell-2 {min-height: 600px; pointer-events: auto}
+.u-section-3 .u-container-layout-2 {padding: 30px 60px}
+.u-section-3 .u-image-1 {object-position: 29.71% 50%; height: 530px; margin: 0 auto 0 0} 
 
 @media (max-width: 1199px){ .u-section-3 .u-sheet-1 {min-height: 100px}
 .u-section-3 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
 .u-section-3 .u-layout-cell-1 {min-height: 495px}
-.u-section-3 .u-image-1 {min-height: 495px} }
+.u-section-3 .u-layout-cell-2 {min-height: 495px; background-position: 29.71% 50%}
+.u-section-3 .u-image-1 {height: 412px; margin-right: initial; margin-left: initial} }
 
 @media (max-width: 991px){ .u-section-3 .u-layout-cell-1 {min-height: 100px}
 .u-section-3 .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
-.u-section-3 .u-image-1 {min-height: 379px}
-.u-section-3 .u-container-layout-2 {padding-left: 30px; padding-right: 30px} }
+.u-section-3 .u-layout-cell-2 {min-height: 100px}
+.u-section-3 .u-container-layout-2 {padding-left: 30px; padding-right: 30px}
+.u-section-3 .u-image-1 {height: 353px; margin-right: initial; margin-left: initial} }
 
 @media (max-width: 767px){ .u-section-3 .u-sheet-1 {min-height: 390px}
 .u-section-3 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
-.u-section-3 .u-image-1 {min-height: 569px}
-.u-section-3 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+.u-section-3 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-3 .u-image-1 {height: 612px; margin-right: initial; margin-left: initial} }
 
 @media (max-width: 575px){ .u-section-3 .u-sheet-1 {min-height: 179px}
-.u-section-3 .u-image-1 {min-height: 358px} }
+.u-section-3 .u-image-1 {height: 377px; margin-right: initial; margin-left: initial} }
